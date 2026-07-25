@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Afterlife")(type "KiCad")(uri "D:/LocalProjects/TildagonAfterlife/Afterlife.pretty")(options "")(descr ""))
+)
