@@ -1,6 +1,6 @@
 ## **Tildagon Afterlife Board**
 
-Bring your old EMF 2024 Tildagon front back to life.
+Bring your old EMF 2024 Tildagon front board back to life.
 
 The **Tildagon Afterlife Board** is a minimal driver board for the original EMF 2024 Tildagon front PCB. It connects to the badge using the existing 30-pin FFC connector and is driven by an **ESP32-C3 SuperMini module**, turning the retired front board into a standalone development platform.
 
@@ -25,6 +25,8 @@ To build one you'll need:
 - 3-pin, 0.5 mm pitch FFC cable, same-side (Type A)
 
 The connector spacing works out to around 40 mm, although the shortest cable I was able to source was 50 mm, which works perfectly well.
+
+Totally optionally, you can buy a new screen. Search for GC9A01 1.28" round LCD modules.
 
 ## Project Status
 **Current status: Hardware in production**
