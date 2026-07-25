@@ -22,7 +22,7 @@ The goal is simple: provide an inexpensive board that lets the original hardware
 To build one you'll need:
 - ESP32-C3 SuperMini
 - JUSHUO AFC01-S30FCC-00 30-pin FFC connector (or equivalent)
-- 3-pin, 0.5 mm pitch FFC cable, same-side (Type A)
+- 30-pin, 0.5 mm pitch FFC cable, same-side (Type A)
 
 The connector spacing works out to around 40 mm, although the shortest cable I was able to source was 50 mm, which works perfectly well.
 
