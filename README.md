@@ -1,3 +1,5 @@
+![Breadboard prototype](images/hero.jpg)
+
 ## **Tildagon Afterlife Board**
 
 Bring your old EMF 2024 Tildagon front board back to life.
