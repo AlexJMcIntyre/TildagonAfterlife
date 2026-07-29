@@ -44,3 +44,4 @@ Demo scripts are on the way to show how to use each of the board's features. Don
 
 ## License
 Firmware and documentation are licensed under the MIT Licence. Hardware design files are licensed under CERN-OHL-P v2.
+Tildagon is a project by the EMF Camp team. This project is an independent community accessory and is not affiliated with or endorsed by EMF Camp.
