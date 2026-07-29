@@ -43,4 +43,4 @@ https://mastodon.social/@GlitchEngine
 Demo scripts are on the way to show how to use each of the board's features. Don't expect a polished software ecosystem, but I'll publish anything useful I write along the way. If you build something cool, I'd love to hear about it.
 
 ## License
-Hardware design files, firmware and documentation are released under the licenses included in this repository.
+Firmware and documentation are licensed under the MIT Licence. Hardware design files are licensed under CERN-OHL-P v2.
