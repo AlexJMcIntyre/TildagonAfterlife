@@ -31,10 +31,8 @@ The connector spacing works out to around 40 mm, although the shortest cable I w
 Totally optionally, you can buy a new screen. Search for GC9A01 1.28" round LCD modules.
 
 ## Project Status
-**Current status: Hardware in production**
-- Breadboard prototypes successfully tested
-- PCB design completed
-- Production boards have been ordered and are expected within the next couple of weeks
+**Current status: Live! You can buy this!**
+Check out [my Ko-fi shop](https://ko-fi.com/s/6f3e26f617) to get both bare and pre-assembled PCBs
 
 You can follow the project's progress on Mastodon:
 https://mastodon.social/@GlitchEngine
